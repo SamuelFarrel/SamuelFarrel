@@ -8,21 +8,9 @@ Self taught, curiosity driven CS Student from Indonesia. Mostly for college and 
 
 - 🎓 Penultimate Undergraduate Computer Science student at [University of Indonesia](https://cs.ui.ac.id/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Made web and mobile-based applications for college projects. Also built simple ML models supported with data processing.
 
 - 🔍 Interested in Data Science, Machine Learning, and Software Development
-
-- 💬 You can also find me here: <br>
-<a href="https://instagram.com/samfarrr">
-  <img height="30" alt="Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg">
-</a>
-<a href="https://linkedin.com/in/samfarrr">
-  <img height="30" alt="LinkedIn" src="https://www.svgrepo.com/show/452051/linkedin.svg">
-</a>
-<a href="https://medium.com/@samfarrr">
-  <img height="30" alt="Medium" src="https://www.svgrepo.com/show/394277/medium.svg">
-</a>
-
 
 <br>
 
@@ -43,3 +31,20 @@ Self taught, curiosity driven CS Student from Indonesia. Mostly for college and 
 
 
 ![SamuelFarrel's Stats](https://github-readme-stats.vercel.app/api?username=SamuelFarrel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+<br>
+
+<div align="center">
+
+### You can also find me on my socials <br> 
+<a href="https://instagram.com/samfarrr">
+  <img height="40" alt="Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" style="margin: 0 10px;">
+</a>
+<a href="https://linkedin.com/in/samfarrr">
+  <img height="40" alt="LinkedIn" src="https://www.svgrepo.com/show/452051/linkedin.svg" style="margin: 0 10px;">
+</a>
+<a href="https://medium.com/@samfarrr">
+  <img height="40" alt="Medium" src="https://www.svgrepo.com/show/394277/medium.svg" style="margin: 0 10px;">
+</a>
+
+</div>
