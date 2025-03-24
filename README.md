@@ -1,4 +1,4 @@
-<!-- <p align="center"><a href="https://github.com/SamuelFarrel/"><img width="80%" alt="Header" src="./images/header.png" /></a></p> -->
+<p align="center"><a href="https://github.com/SamuelFarrel/"><img alt="Header" src="./images/header.png" width="400" /></a></p>
 
 <br />
 
@@ -14,23 +14,28 @@ Self taught, curiosity driven CS Student from Indonesia. Mostly for college and 
 
 <br>
 
-#### Languages and Tools
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <h3>Languages and Tools</h3>
+        <code><img height="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
+        <code><img height="30" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
+        <code><img height="30" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"></code>
+        <code><img height="30" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
+        <code><img height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
+        <br><br>
+        <img alt="SamuelFarrel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFarrel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+      </td>
+      <td align="center" valign="top">
+        <h3>Stats</h3>
+        <br><br>
+        <img alt="SamuelFarrel's Stats" src="https://github-readme-stats.vercel.app/api?username=SamuelFarrel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<code><img height="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
-<code><img height="30" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"></code>
-<code><img height="30" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
-<code><img height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
- 
-
-![SamuelFarrel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFarrel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
-#### Stats
-
-
-![SamuelFarrel's Stats](https://github-readme-stats.vercel.app/api?username=SamuelFarrel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 
